@@ -10,8 +10,7 @@
             <a  href = “#” class = “logo” >
               <img src = “ ”alt= “The logo of the project Sundar Pichai”>
             </a>
-         
-               <span class = “menu-space”></span>
+            <span class = “menu-space”></span>
                  <ul class = “menu”>
                    <li><a href = “#”>Home</a></li>
                    <li><a href = “#”>Skills</a></li>
@@ -28,7 +27,7 @@
             </div>
               <div class = “main-text”>
                  <h1>Hello, Iam the <br> Sundar pichai </h1>
-                  <p> Hey in this video I will be showing you guys how to build a website using only Html              and Css </p>
+                  <p> Hey in this video I will be showing you guys how to build a website using only Html and Css </p>
                   <a href = “#” class = “Resume-button”>See My Resume </a>
                </div>
                </div>
